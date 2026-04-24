@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885325999759",
+    "project_id": "fortniteshopwe",
+    "storage_bucket": "fortniteshopwe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885325999759:android:151729d7b0c5da71070afa",
+        "android_client_info": {
+          "package_name": "fortnite.company"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9M7qSMVbbKNv98HqxRswLQY-XPxl2O0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
