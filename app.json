@@ -15,13 +15,20 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#0D0D12"
-      }
+      },
+      "package": "com.keomanedy.fortniteshopapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "52bd5eb7-312c-4dba-919d-e532ab1f1a39"
+      }
+    },
+    "owner": "keomanedy"
   }
 }
